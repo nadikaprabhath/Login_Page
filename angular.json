@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "nadika"
+    }
+  },
+  "defaultProject": "nadika",
+  "cli": {
+    "analytics": "4bc0756c-855a-41c5-825f-bbba9130555c"
+  }
 }
